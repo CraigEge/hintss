@@ -1,0 +1,7 @@
+name: ${name}
+description: ${description}
+version: ${version}
+
+author: CraigEge
+
+main: com.craigegerton.hintss.hintss
